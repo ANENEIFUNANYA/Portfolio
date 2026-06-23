@@ -42,8 +42,6 @@ Two deep-dive articles on AI governance and cyber attack lessons—"The Invisibl
 - Risk & Compliance Monitoring
 
 ## About
-Seeking internship or entry-level GRC role. Each project here represents a real problem solved and a framework applied in practice.
-
 Seeking internship and entry-level opportunities in Governance, Risk, and Compliance. Each project in this portfolio represents a real problem solved and a framework applied in practice, demonstrating my ability to conduct risk assessments, document findings for compliance, and recommend controls aligned with governance standards.
 
 📧 missanenejennifer@gmail.com 
