@@ -1,8 +1,8 @@
 # GRC & Cybersecurity Portfolio
 
-I'm Ifunanya, an aspiring Governance, Risk, and Compliance (GRC) professional who recently completed GRC training and developed hands-on experience applying governance, risk management, and compliance concepts in cloud environments.
+I'm Ifunanya, an aspiring Governance, Risk, and Compliance (GRC) professional who recently completed GRC training and developed hands-on experience applying governance, risk management, and compliance concepts.
 
-This repository showcases projects completed before and during my Cybersecurity training, with a focus on Governance, Risk and Compliance (GRC) covering areas such as risk assessment, threat modeling, security awareness, compliance monitoring, cloud security, and governance frameworks. Through these projects, I have applied concepts from frameworks including NIST CSF, ISO 27001, PCI DSS, GDPR, HIPAA, and SOC 2 in practical scenarios.
+This repository showcases projects completed during my Cybersecurity training, with a focus on Governance, Risk and Compliance (GRC) covering areas such as risk assessment, threat modeling, security awareness, compliance monitoring, cloud security, and governance frameworks. Through these projects, I have applied concepts from frameworks including NIST CSF, ISO 27001, PCI DSS, GDPR, HIPAA, and SOC 2 in practical scenarios.
 
 My goal is to continue building hands-on experience while pursuing internship and entry-level opportunities in GRC, cybersecurity governance, risk management, and compliance.
 
